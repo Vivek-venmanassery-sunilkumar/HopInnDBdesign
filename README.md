@@ -21,7 +21,7 @@ The schema is designed to support key features of the platform, including:
 
 ## 🗂️ Database Schema
 
-![HopInn Database Design](./your_image_name.png)
+![HopInn Database Design](./db_design.png)
 
 
 
